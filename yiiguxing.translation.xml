@@ -1,0 +1,34 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="姓名" />
+      <item value="name" />
+      <item value="哈哈££££££¢" />
+      <item value="哈哈" />
+      <item value="哈哈££" />
+      <item value="详细文档见" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="14" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20180516000160536" />
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="5ae414513d5881f4" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

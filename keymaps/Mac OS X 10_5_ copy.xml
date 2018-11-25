@@ -1,0 +1,45 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="$ExclusiveTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="$InclusiveTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="$ShowInstantTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="$ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="ctrl meta i" />
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="$TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt 3" />
+  </action>
+  <action id="Editor ExclusiveTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="Editor InclusiveTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="Editor ShowInstantTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="Editor ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="Editor TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt 3" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt f14" />
+  </action>
+  <action id="com.github.setial.intellijjavadocs.action.JavaDocGenerateActionOnEditor">
+    <keyboard-shortcut first-keystroke="shift alt g" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt g" />
+  </action>
+  <action id="com.github.setial.intellijjavadocs.action.JavaDocsGenerateActionOnEditor">
+    <keyboard-shortcut first-keystroke="shift meta alt g" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt c" />
+  </action>
+</keymap>
