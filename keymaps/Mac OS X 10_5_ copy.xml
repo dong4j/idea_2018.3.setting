@@ -36,12 +36,10 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt f14" />
   </action>
-  <action id="com.github.setial.intellijjavadocs.action.JavaDocGenerateActionOnEditor">
-    <keyboard-shortcut first-keystroke="shift alt g" />
+  <action id="com.github.setial.intellijjavadocs.action.JavaDocGenerateActionOnEditor" />
+  <action id="com.github.setial.intellijjavadocs.action.JavaDocRemoveActionOnEditor" />
+  <action id="com.github.setial.intellijjavadocs.action.JavaDocsGenerateActionOnEditor">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt g" />
   </action>
-  <action id="com.github.setial.intellijjavadocs.action.JavaDocsGenerateActionOnEditor">
-    <keyboard-shortcut first-keystroke="shift meta alt g" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt c" />
-  </action>
+  <action id="com.github.setial.intellijjavadocs.action.JavaDocsRemoveActionOnEditor" />
 </keymap>
