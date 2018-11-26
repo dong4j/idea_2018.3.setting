@@ -1,17 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aa" />
+      <item value="aaa" />
+      <item value="ª" />
+      <item value="哈哈" />
+      <item value="init" />
       <item value="姓名" />
       <item value="name" />
       <item value="哈哈££££££¢" />
-      <item value="哈哈" />
       <item value="哈哈££" />
       <item value="详细文档见" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>

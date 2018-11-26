@@ -4,7 +4,7 @@
     <property name="created">2018-10-22T22:18:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-22T22:18:12</property>
+    <property name="modified">2018-11-26T09:51:11</property>
     <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -167,7 +167,7 @@
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="dbdbdb" />
+        <option name="ERROR_STRIPE_COLOR" value="19c1db" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
@@ -1394,7 +1394,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="BACKGROUND" value="264b33" />
@@ -3309,7 +3308,6 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="82aaff" />
