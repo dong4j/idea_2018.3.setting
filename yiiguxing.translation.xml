@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="剩余" />
       <item value="过滤黑名单" />
       <item value="black" />
       <item value="aa" />
@@ -16,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
