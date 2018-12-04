@@ -13,7 +13,8 @@
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
   <action id="$TranslateAndReplaceAction">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt f3" />
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+    <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="Editor ExclusiveTranslateAction">
     <keyboard-shortcut first-keystroke="alt 2" />
@@ -28,18 +29,14 @@
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
   <action id="Editor TranslateAndReplaceAction">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt f3" />
+    <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="EditorSplitLine" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt f14" />
   </action>
-  <action id="com.github.setial.intellijjavadocs.action.JavaDocGenerateActionOnEditor">
-    <keyboard-shortcut first-keystroke="shift alt g" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt g" />
-  </action>
+  <action id="com.github.setial.intellijjavadocs.action.JavaDocGenerateActionOnEditor" />
   <action id="com.github.setial.intellijjavadocs.action.JavaDocsGenerateActionOnEditor">
-    <keyboard-shortcut first-keystroke="shift meta alt g" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt c" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt g" />
   </action>
 </keymap>
