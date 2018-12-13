@@ -2,7 +2,7 @@
   <component name="GrepConsole">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="3" />
+        <option name="actionsExecuted" value="4" />
         <option name="firstUsage" value="0" />
         <option name="firstUsedVersion" value="8.5.162.000.1" />
       </DonationNagger>
@@ -77,7 +77,7 @@
                           <option name="bold" value="true" />
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-38040" />
+                              <option name="color" value="-9932" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
