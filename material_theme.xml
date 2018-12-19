@@ -1,24 +1,24 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="accentScrollbars" value="false" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="highlightColorEnabled" value="true" />
+    <option name="darkTitleBar" value="false" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="statusBarTheme" value="false" />
-    <option name="treeFontSizeEnabled" value="true" />
+    <option name="themedScrollbars" value="false" />
     <option name="upperCaseButtons" value="false" />
-    <option name="useMaterialFont2" value="true" />
-    <option name="treeFontSize" value="14" />
+    <option name="tabOpacity" value="53" />
+    <option name="highlightThickness" value="3" />
     <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="10" />
-    <option name="accentColor" value="80cbc4" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="userId" value="428a0f28:1673c3555fb:-8000" />
+    <option name="accentColor" value="1dbb92" />
+    <option name="userId" value="7b5e7a03:167baa1eeaa:-8000" />
     <option name="version" value="3.2.0" />
   </component>
 </application>
