@@ -1,66 +1,30 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="FETCH" />
-      <item value="Present" />
-      <item value="原生" />
+      <item value="SNAPSHOT" />
+      <item value="provided" />
       <item value="Aggregation" />
+      <item value="Single" />
+      <item value="Candidate" />
+      <item value="Acknowledge" />
+      <item value="distribution" />
+      <item value="Prerequisites" />
+      <item value="Instructions" />
+      <item value="reliable" />
+      <item value="Offline" />
       <item value="Pending" />
-      <item value="present" />
-      <item value="State" />
-      <item value="fill" />
-      <item value="暴露" />
-      <item value="默认全局" />
-      <item value="Invocation" />
-      <item value="delay" />
-      <item value="容量" />
+      <item value="decompiled" />
       <item value="Repair" />
-      <item value="补救" />
-      <item value="进度" />
-      <item value="注释" />
-      <item value="tenant" />
-      <item value="Duplicate" />
-      <item value="specified" />
-      <item value="Unexpected" />
-      <item value="locate" />
-      <item value="Service" />
-      <item value="Application Start" />
-      <item value="Application" />
-      <item value="剩余" />
-      <item value="过滤黑名单" />
-      <item value="black" />
-      <item value="aa" />
-      <item value="aaa" />
-      <item value="ª" />
-      <item value="哈哈" />
-      <item value="init" />
-      <item value="姓名" />
-      <item value="name" />
-      <item value="哈哈££££££¢" />
-      <item value="哈哈££" />
-      <item value="详细文档见" />
+      <item value="DECIMAL" />
+      <item value="分钟内未改变" />
+      <item value="redis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="18" />
+        <entry key="FRENCH" value="1" />
       </map>
-    </option>
-  </component>
-  <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="appId" value="20180516000160536" />
-        <option name="appKeyConfigured" value="true" />
-      </app-key>
-    </option>
-    <option name="ignoreRegExp" value="" />
-    <option name="translator" value="ai.youdao" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="appId" value="5ae414513d5881f4" />
-        <option name="appKeyConfigured" value="true" />
-      </youdao-translate>
     </option>
   </component>
 </application>
