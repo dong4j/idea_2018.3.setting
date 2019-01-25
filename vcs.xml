@@ -6,6 +6,10 @@
           <option name="url" value="http://git.iflytek.com:443" />
           <option name="userName" value="sjdong3" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="arraydsj@163.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
