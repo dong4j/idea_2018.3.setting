@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fuzzy" />
       <item value="Persistent" />
       <item value="region" />
       <item value="content" />
@@ -50,12 +51,11 @@
       <item value="aa" />
       <item value="aaa" />
       <item value="ª" />
-      <item value="哈哈" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
       </map>
     </option>
   </component>
