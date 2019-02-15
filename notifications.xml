@@ -1,8 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Checkstyle IDEA Alerts" displayType="NONE" />
-    <notification groupId="Custom Postfix Templates" displayType="NONE" shouldLog="false" />
-    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
-    <notification groupId="Translation Plugin Update" shouldLog="false" />
-  </component>
-</application>
