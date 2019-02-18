@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Concurrent" />
       <item value="Prefetch" />
       <item value="specified" />
       <item value="receive" />
