@@ -5,6 +5,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="BUILDING" type="PLAIN_TEXT" />
+      <mapping pattern="distributed_transaction.md" type="PLAIN_TEXT" />
       <mapping pattern="此目录下的错误页面将覆盖默认错误页面" type="PLAIN_TEXT" />
       <mapping ext="provides" type="PLAIN_TEXT" />
       <mapping ext="2018-11-07-23-46" type="PLAIN_TEXT" />
