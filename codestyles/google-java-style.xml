@@ -263,6 +263,7 @@
   </JavaCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="WRAP_ON_TYPING" value="0" />
+    <option name="CODE_FENCE_MARKER_TYPE" value="1" />
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <ADDITIONAL_INDENT_OPTIONS fileType="haml">
