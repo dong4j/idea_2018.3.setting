@@ -10,6 +10,7 @@
       <mapping ext="provides" type="PLAIN_TEXT" />
       <mapping ext="2018-11-07-23-46" type="PLAIN_TEXT" />
       <mapping ext="2018-11-07-23-48" type="PLAIN_TEXT" />
+      <mapping ext="styl" type="PLAIN_TEXT" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="banner" type="PLAIN_TEXT" />
     </extensionMap>
