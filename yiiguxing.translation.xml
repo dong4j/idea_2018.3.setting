@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="author" />
       <item value="anchor" />
       <item value="permalink" />
       <item value="capable" />
@@ -50,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
