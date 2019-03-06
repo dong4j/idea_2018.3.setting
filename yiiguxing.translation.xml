@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="conten" />
       <item value="PLATINUM" />
       <item value="platinumvipstatus" />
       <item value="Platinum" />
@@ -52,9 +53,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
+        <entry key="CHINESE" value="48" />
         <entry key="ENGLISH" value="48" />
         <entry key="FRENCH" value="1" />
+        <entry key="CATALAN" value="1" />
       </map>
     </option>
   </component>
