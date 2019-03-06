@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Platinum" />
       <item value="conten" />
       <item value="PLATINUM" />
       <item value="platinumvipstatus" />
-      <item value="Platinum" />
       <item value="clustered" />
       <item value="deliver" />
       <item value="英语" />
@@ -54,7 +54,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="ENGLISH" value="49" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
