@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NON PERSISTENT" />
+      <item value="borrow" />
       <item value="externally" />
       <item value="CLUSTERED" />
       <item value="Policy" />
@@ -49,13 +51,11 @@
       <item value="reliable" />
       <item value="Offline" />
       <item value="Pending" />
-      <item value="decompiled" />
-      <item value="Repair" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
