@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="BUILDING" type="PLAIN_TEXT" />
       <mapping pattern="distributed_transaction.md" type="PLAIN_TEXT" />
       <mapping pattern="此目录下的错误页面将覆盖默认错误页面" type="PLAIN_TEXT" />

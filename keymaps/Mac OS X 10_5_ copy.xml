@@ -32,14 +32,24 @@
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="PublishGroup.UploadTo" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt f" />
   </action>
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt t" />
   </action>
+  <action id="Tool_External Tools_sublime">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt s" />
+  </action>
   <action id="Tool_External Tools_typora">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt m" />
+  </action>
+  <action id="Tool_External Tools_vscode">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt v" />
+  </action>
+  <action id="VCS.Deployment.Upload">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt u" />
   </action>
   <action id="com.github.setial.intellijjavadocs.action.JavaDocGenerateActionOnEditor" />
   <action id="com.github.setial.intellijjavadocs.action.JavaDocsGenerateActionOnEditor">
