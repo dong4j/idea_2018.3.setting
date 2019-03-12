@@ -1,13 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="categories" />
+      <item value="node modules" />
       <item value="Synthetic" />
       <item value="Caret" />
       <item value="valid" />
       <item value="Valid" />
       <item value="disenable" />
       <item value="relative" />
-      <item value="categories" />
       <item value="requestor" />
       <item value="Inspection" />
       <item value="determine" />
@@ -21,8 +22,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="18" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
