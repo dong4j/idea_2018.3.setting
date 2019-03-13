@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Presigned" />
       <item value="Sufix" />
       <item value="predicate" />
       <item value="random" />
@@ -41,7 +42,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="ENGLISH" value="33" />
         <entry key="POLISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LATIN" value="1" />
