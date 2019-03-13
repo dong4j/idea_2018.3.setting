@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="predicate" />
+      <item value="random" />
+      <item value="随机" />
       <item value="构造器" />
       <item value="constur" />
       <item value="General" />
@@ -36,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="32" />
         <entry key="POLISH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
