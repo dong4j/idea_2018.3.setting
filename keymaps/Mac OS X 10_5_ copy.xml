@@ -48,6 +48,9 @@
   <action id="Tool_External Tools_vscode">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt v" />
   </action>
+  <action id="TrackingCode.TrackAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt r" />
+  </action>
   <action id="VCS.Deployment.Upload">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt u" />
   </action>
