@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Original" />
       <item value="Absent" />
       <item value="验证" />
       <item value="receive" />
@@ -15,7 +16,6 @@
       <item value="Sequence" />
       <item value="expire" />
       <item value="hyperlink" />
-      <item value="Original" />
       <item value="presentation" />
       <item value="process" />
       <item value="consume" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="POLISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LATIN" value="1" />
