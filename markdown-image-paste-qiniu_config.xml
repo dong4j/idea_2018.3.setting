@@ -1,0 +1,5 @@
+<application>
+  <component name="markdown-image-paste-qiniu">
+    <option name="zone" value="QINIU_ZONE{zone='south_china'}" />
+  </component>
+</application>
