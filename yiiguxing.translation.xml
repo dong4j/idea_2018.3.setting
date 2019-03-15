@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Absent" />
       <item value="验证" />
       <item value="receive" />
       <item value="visit" />
@@ -50,12 +51,11 @@
       <item value="relative" />
       <item value="requestor" />
       <item value="Inspection" />
-      <item value="determine" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="POLISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LATIN" value="1" />
