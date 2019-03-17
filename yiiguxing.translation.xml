@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="valid" />
+      <item value="Image" />
+      <item value="Valid" />
+      <item value="expected" />
       <item value="required" />
       <item value="physical" />
       <item value="Fial" />
@@ -47,15 +51,11 @@
       <item value="Content" />
       <item value="Sequence" />
       <item value="expire" />
-      <item value="hyperlink" />
-      <item value="process" />
-      <item value="consume" />
-      <item value="Performed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
         <entry key="IRISH" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
