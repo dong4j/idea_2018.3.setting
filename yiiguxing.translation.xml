@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前缀" />
       <item value="Kit" />
       <item value="Assertion" />
       <item value="domain" />
@@ -50,11 +51,10 @@
       <item value="Presentable" />
       <item value="current" />
       <item value="Line" />
-      <item value="breaks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
+        <entry key="CHINESE" value="116" />
         <entry key="ENGLISH" value="116" />
         <entry key="IRISH" value="1" />
         <entry key="POLISH" value="1" />
