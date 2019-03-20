@@ -1,0 +1,38 @@
+<application>
+  <component name="ImageManagerSetting">
+    <option name="aliyunOssState">
+      <AliyunOssState>
+        <option name="oldAndNewAuthInfo">
+          <map>
+            <entry key="new" value="0" />
+          </map>
+        </option>
+        <option name="passedTest" value="true" />
+      </AliyunOssState>
+    </option>
+    <option name="qiniuOssState">
+      <QiniuOssState>
+        <option name="oldAndNewAuthInfo">
+          <map>
+            <entry key="new" value="0" />
+          </map>
+        </option>
+        <option name="passedTest" value="true" />
+      </QiniuOssState>
+    </option>
+    <option name="weiboOssState">
+      <WeiboOssState>
+        <option name="cookies" value="sso_info=v02m6alo5qztYGcp4mhnpSRs5qlvY6bspm1mpaQvYyzpLeMg5CyjZOYsoyAwMA=; LT=1553076195; ALF=1584612195; ALC=ac%3D2%26bt%3D1553076195%26cv%3D5.0%26et%3D1584612195%26ic%3D-1231669071%26login_time%3D1553076194%26scf%3D%26uid%3D3970425620%26vf%3D0%26vs%3D0%26vt%3D0%26es%3D040570d3171e8025de22655d0206202a; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WF.woGMYo2szLykVJ-NCL855NHD95Q01KM7ShzfSoz7Ws4DqcjTBPiEqPL2McDkKJYt; SUB=_2A25xln-zDeRhGeVH7FIV8ivKyTyIHXVS4tZ7rDV_PUNbm9BeLUn5kW9NTyYcf3-UqTS7w3-Cihf5cZk_AgTOe8Wd; tgc=TGT-Mzk3MDQyNTYyMA==-1553076195-gz-770740BCD2F770694EF0D636A4CC6209-1; SCF=Apa_kcPFA9kIYDpwQs-eHInVZFFVQ3s3Ita3l3hp8EMD-cGbzMRDwCU2kaVgAJIxSpeHK2G3WxpBV1pe1x-pslo." />
+        <option name="oldAndNewAuthInfo">
+          <map>
+            <entry key="new" value="-444220193" />
+            <entry key="old" value="-444220193" />
+          </map>
+        </option>
+        <option name="passedTest" value="true" />
+        <option name="password" value="1F8EE201E5F4E7248B191236419046A3" />
+        <option name="userName" value="arraydsj@163.com" />
+      </WeiboOssState>
+    </option>
+  </component>
+</application>
