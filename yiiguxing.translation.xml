@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="temporary" />
+      <item value="roamable" />
+      <item value="PATTERN" />
+      <item value="Relativize" />
+      <item value="Pattern" />
       <item value="presentation" />
       <item value="包装" />
       <item value="前缀" />
@@ -33,7 +38,6 @@
       <item value="required" />
       <item value="physical" />
       <item value="Fial" />
-      <item value="Pattern" />
       <item value="COMMON" />
       <item value="NOMAL" />
       <item value="relativize" />
@@ -47,15 +51,11 @@
       <item value="General" />
       <item value="EXTEND" />
       <item value="Sensitively" />
-      <item value="extension" />
-      <item value="directories" />
-      <item value="Presentable" />
-      <item value="current" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="123" />
         <entry key="IRISH" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
