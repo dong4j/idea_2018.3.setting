@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="presentation" />
       <item value="包装" />
       <item value="前缀" />
       <item value="Kit" />
@@ -40,7 +41,6 @@
       <item value="Resolution" />
       <item value="rescale" />
       <item value="Primary" />
-      <item value="presentation" />
       <item value="Flavor" />
       <item value="uncomment" />
       <item value="general" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="IRISH" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
