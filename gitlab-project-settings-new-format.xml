@@ -1,0 +1,90 @@
+<application>
+  <component name="SettingsState">
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iflytek.com/adsring/ads-project.git" />
+          <option name="name" value="ads-project" />
+          <option name="namespace" value="adsring" />
+          <option name="sshUrl" value="git@git.iflytek.com:adsring/ads-project.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iflytek.com/CBG_CDCOMMON/cd_hello_apigw.git" />
+          <option name="name" value="cd_hello_apigw" />
+          <option name="namespace" value="CBG_CDCOMMON" />
+          <option name="sshUrl" value="git@git.iflytek.com:CBG_CDCOMMON/cd_hello_apigw.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iflytek.com/CBG_CDCOMMON/ms-backstage.git" />
+          <option name="name" value="ms-backstage" />
+          <option name="namespace" value="CBG_CDCOMMON" />
+          <option name="sshUrl" value="git@git.iflytek.com:CBG_CDCOMMON/ms-backstage.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iflytek.com/CBG_CDCOMMON/ms-bizs.git" />
+          <option name="name" value="ms-bizs" />
+          <option name="namespace" value="CBG_CDCOMMON" />
+          <option name="sshUrl" value="git@git.iflytek.com:CBG_CDCOMMON/ms-bizs.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iflytek.com/CBG_CDCOMMON/ms-libs.git" />
+          <option name="name" value="ms-libs" />
+          <option name="namespace" value="CBG_CDCOMMON" />
+          <option name="sshUrl" value="git@git.iflytek.com:CBG_CDCOMMON/ms-libs.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iflytek.com/CBG_CDCOMMON/third-party-open-project.git" />
+          <option name="name" value="third-party-open-project" />
+          <option name="namespace" value="CBG_CDCOMMON" />
+          <option name="sshUrl" value="git@git.iflytek.com:CBG_CDCOMMON/third-party-open-project.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iflytek.com/adsring/ads-project.git" />
+          <option name="name" value="ads-project" />
+          <option name="namespace" value="adsring" />
+          <option name="sshUrl" value="git@git.iflytek.com:adsring/ads-project.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iflytek.com/CBG_CDCOMMON/cd_hello_apigw.git" />
+          <option name="name" value="cd_hello_apigw" />
+          <option name="namespace" value="CBG_CDCOMMON" />
+          <option name="sshUrl" value="git@git.iflytek.com:CBG_CDCOMMON/cd_hello_apigw.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iflytek.com/CBG_CDCOMMON/ms-backstage.git" />
+          <option name="name" value="ms-backstage" />
+          <option name="namespace" value="CBG_CDCOMMON" />
+          <option name="sshUrl" value="git@git.iflytek.com:CBG_CDCOMMON/ms-backstage.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iflytek.com/CBG_CDCOMMON/ms-bizs.git" />
+          <option name="name" value="ms-bizs" />
+          <option name="namespace" value="CBG_CDCOMMON" />
+          <option name="sshUrl" value="git@git.iflytek.com:CBG_CDCOMMON/ms-bizs.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iflytek.com/CBG_CDCOMMON/ms-libs.git" />
+          <option name="name" value="ms-libs" />
+          <option name="namespace" value="CBG_CDCOMMON" />
+          <option name="sshUrl" value="git@git.iflytek.com:CBG_CDCOMMON/ms-libs.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.iflytek.com/CBG_CDCOMMON/third-party-open-project.git" />
+          <option name="name" value="third-party-open-project" />
+          <option name="namespace" value="CBG_CDCOMMON" />
+          <option name="sshUrl" value="git@git.iflytek.com:CBG_CDCOMMON/third-party-open-project.git" />
+        </ProjectDto>
+      </list>
+    </option>
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="9vjaXUv6gcj-XZQEvi7Z" />
+          <option name="apiUrl" value="https://git.iflytek.com/" />
+          <option name="preferredConnection" value="HTTPS" />
+          <option name="repositoryUrl" value="git.iflytek.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
