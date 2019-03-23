@@ -32,6 +32,9 @@
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="GenerateCopyright">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt y" />
+  </action>
   <action id="PublishGroup.UploadTo" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt f" />
@@ -47,6 +50,9 @@
   </action>
   <action id="Tool_External Tools_vscode">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt v" />
+  </action>
+  <action id="TrackingCode.TrackAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt r" />
   </action>
   <action id="VCS.Deployment.Upload">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt u" />

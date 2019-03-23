@@ -1,0 +1,9 @@
+<application>
+  <component name="markdown-image-paste-qiniu">
+    <option name="accessKey" value="" />
+    <option name="secretKey" value="" />
+    <option name="bucket" value="" />
+    <option name="upHost" value="" />
+    <option name="zone" value="QINIU_ZONE{zone='south_china'}" />
+  </component>
+</application>
