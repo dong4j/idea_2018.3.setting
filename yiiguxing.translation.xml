@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Activated" />
       <item value="associate" />
       <item value="expire" />
       <item value="multi" />
@@ -50,12 +51,11 @@
       <item value="Persisten" />
       <item value="Store" />
       <item value="Active" />
-      <item value="specific" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="IRISH" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
