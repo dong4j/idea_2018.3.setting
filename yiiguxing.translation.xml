@@ -1,22 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Frozen" />
-      <item value="guess" />
-      <item value="解析" />
-      <item value="验证" />
-      <item value="可用" />
-      <item value="有效" />
-      <item value="每次" />
-      <item value="特征" />
-      <item value="Canonical" />
-      <item value="Extension" />
-      <item value="Process" />
+      <item value="uncomment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="ENGLISH" value="1" />
       </map>
     </option>
   </component>
