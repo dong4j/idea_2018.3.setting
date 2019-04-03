@@ -1,7 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://checkstyle.sourceforge.net/dtds/configuration_1_3.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/extResources/40fa6519_configuration_1_3.dtd" />
-    <resource url="http://ehcache.org/ehcache.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/extResources/39e8daee_ehcache.xsd" />
+    <resource url="http://ehcache.org/ehcache.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/39e8daee_ehcache.xsd" />
     <resource url="http://www.puppycrawl.com/dtds/suppressions_1_1.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/extResources/1ea4f47a_suppressions_1_1.dtd" />
   </component>
 </application>
