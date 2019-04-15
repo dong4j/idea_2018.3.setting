@@ -1,0 +1,12 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>AlipayTradeCreateRequest.setBizContent (com.alipay.api.request)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setBizContent").withParameters("java.lang.String").definedInClass("com.alipay.api.request.AlipayTradeCreateRequest"))]]></place>
+    </injection>
+    <injection language="JSON" injector-id="java">
+      <display-name>AlipayTradePagePayRequest.setBizContent (com.alipay.api.request)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setBizContent").withParameters("java.lang.String").definedInClass("com.alipay.api.request.AlipayTradePagePayRequest"))]]></place>
+    </injection>
+  </component>
+</application>
