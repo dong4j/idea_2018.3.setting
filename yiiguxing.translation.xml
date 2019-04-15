@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exter" />
       <item value="分隔" />
       <item value="Expire" />
       <item value="验证码" />
@@ -25,7 +26,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
