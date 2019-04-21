@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Artifact" />
       <item value="已开票" />
       <item value="未开票" />
       <item value="primary" />
@@ -31,7 +32,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="ENGLISH" value="23" />
       </map>
     </option>
   </component>
